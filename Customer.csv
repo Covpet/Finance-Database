@@ -1,0 +1,1011 @@
+CustomerID,CustomerName,CreditScore,SatisfactionScore
+CUST00001,Ronnie Hamilton,Excellent,7.0
+CUST00002,Mr. James Alvarez MD,Very Good,5.0
+CUST00003,Stacey Mccullough,Poor,2.0
+CUST00004,Andrew Gill,Excellent,5.0
+CUST00005,Alan Jackson,Very Good,2.0
+CUST00006,Diana Brock,Excellent,9.0
+CUST00007,Jeremy Mora,Very Good,8.0
+CUST00008,Jennifer Smith,Good,4.0
+CUST00009,Daniel Hunter,Excellent,6.0
+CUST00010,Grant Watts,Excellent,2.0
+CUST00011,Kristen Fritz,Poor,3.0
+CUST00012,Katie Carpenter,Very Good,4.0
+CUST00013,Patricia Johnson,Fair,4.0
+CUST00014,Tanya Chen,Excellent,3.0
+CUST00015,Chad Wright,Fair,3.0
+CUST00016,Jonathan Gordon,Fair,1.0
+CUST00017,David Woods,Poor,1.0
+CUST00018,Samuel Brown,Good,10.0
+CUST00019,Randall Chang,Fair,1.0
+CUST00020,Olivia Bell,Good,2.0
+CUST00021,Megan Galvan,Good,5.0
+CUST00022,Courtney Rivera,Good,1.0
+CUST00023,Jose Schultz,Excellent,6.0
+CUST00024,Devin Arnold,Poor,8.0
+CUST00025,Andre Owen,Good,5.0
+CUST00026,Sydney Bender,Fair,1.0
+CUST00027,Angela Lucero,Fair,10.0
+CUST00028,Matthew Garcia,Poor,10.0
+CUST00029,Jordan Pearson,Poor,2.0
+CUST00030,Richard Dominguez,Good,10.0
+CUST00031,Nicole Good,Very Good,6.0
+CUST00032,Megan Bonilla,Poor,2.0
+CUST00033,Erin Price,Poor,8.0
+CUST00034,Jessica Fuller DDS,Fair,5.0
+CUST00035,Henry Rodriguez,Poor,1.0
+CUST00036,Gail Jimenez,Excellent,2.0
+CUST00037,Christian Ibarra,Poor,10.0
+CUST00038,Diana Rodriguez,Very Good,4.0
+CUST00039,Gabriel Navarro,Very Good,6.0
+CUST00040,Christopher Gould,Poor,4.0
+CUST00041,Tammy Ray,Good,4.0
+CUST00042,Michael West,Very Good,2.0
+CUST00043,Thomas Smith,Very Good,7.0
+CUST00044,Chelsea Wallace,Very Good,4.0
+CUST00045,Phillip Conrad,Fair,2.0
+CUST00046,Wanda Smith DVM,Fair,5.0
+CUST00047,Jeremy Johnson,Excellent,2.0
+CUST00048,Jessica Mitchell,Fair,10.0
+CUST00049,Ian Logan,Good,5.0
+CUST00050,Robert Atkinson,Excellent,1.0
+CUST00051,Timothy Russell,Fair,4.0
+CUST00052,Caleb Hart,Poor,3.0
+CUST00053,Diane Butler,Excellent,5.0
+CUST00054,William English,Good,10.0
+CUST00055,Laura Thomas,Good,1.0
+CUST00056,Michelle Cabrera,Very Good,6.0
+CUST00057,Kyle Lane III,Poor,5.0
+CUST00058,Daniel Ingram,Poor,7.0
+CUST00059,Heather Morris,Excellent,9.0
+CUST00060,Jesse Brown,Good,6.0
+CUST00061,Veronica Fleming,Very Good,5.0
+CUST00062,Valerie Simmons,Very Good,4.0
+CUST00063,Wanda Allen,Fair,7.0
+CUST00064,Denise Mcbride,Fair,1.0
+CUST00065,Elizabeth Watson,Poor,6.0
+CUST00066,Paul Bennett,Good,10.0
+CUST00067,Joseph Sandoval,Excellent,5.0
+CUST00068,Amy Ortiz,Very Good,3.0
+CUST00069,Charlotte Vincent,Poor,10.0
+CUST00070,Beth Miller,Poor,6.0
+CUST00071,Mrs. Jenny Chavez,Good,3.0
+CUST00072,Robert Gonzalez,Very Good,9.0
+CUST00073,Kathryn Lambert,Fair,2.0
+CUST00074,Michael Sanchez,Good,6.0
+CUST00075,Jonathan Garcia,Very Good,10.0
+CUST00076,Brent Johnson,Fair,5.0
+CUST00077,Candice Rhodes,Very Good,3.0
+CUST00078,Catherine Jackson,Excellent,10.0
+CUST00079,Micheal Simon,Good,3.0
+CUST00080,Julie Chen,Excellent,5.0
+CUST00081,Brooke Gomez,Poor,10.0
+CUST00082,Jessica Hughes,Good,6.0
+CUST00083,Anthony Ramirez,Good,8.0
+CUST00084,Leah Reyes,Excellent,7.0
+CUST00085,Maria Mendez,Very Good,8.0
+CUST00086,Jeffrey Burke,Poor,6.0
+CUST00087,Gregory Hughes,Fair,3.0
+CUST00088,Angel Bush,Good,1.0
+CUST00089,Beth Young,Very Good,7.0
+CUST00090,Heather Wheeler,Very Good,10.0
+CUST00091,Patrick Wallace,Poor,9.0
+CUST00092,Jennifer Smith,Fair,5.0
+CUST00093,Denise Vazquez,Good,8.0
+CUST00094,Jennifer Cowan,Fair,10.0
+CUST00095,April Vance,Excellent,3.0
+CUST00096,Candace Hammond,Good,7.0
+CUST00097,Jason Johnson,Fair,7.0
+CUST00098,Deborah Ortega,Very Good,2.0
+CUST00099,Melissa Fox,Excellent,10.0
+CUST00100,Kelli Rodriguez,Very Good,3.0
+CUST00101,Jennifer Lopez,Very Good,6.0
+CUST00102,Katherine Cox,Good,9.0
+CUST00103,Samuel Davis,Fair,7.0
+CUST00104,David Hoffman,Poor,4.0
+CUST00105,Stuart Russell,Good,9.0
+CUST00106,Gregory Arias,Fair,2.0
+CUST00107,Katherine Snyder,Poor,1.0
+CUST00108,Ian Macdonald,Fair,8.0
+CUST00109,Carmen Sanchez,Good,10.0
+CUST00110,Aaron Maxwell,Fair,9.0
+CUST00111,Allison Johnston,Good,2.0
+CUST00112,Natalie Cross,Good,
+CUST00113,Sheila Randall,Fair,4.0
+CUST00114,Julie Moran,Poor,2.0
+CUST00115,Christopher Mclaughlin,Poor,2.0
+CUST00116,Michael Leblanc,Very Good,5.0
+CUST00117,Taylor Hawkins,Fair,6.0
+CUST00118,Christopher Norris,Poor,3.0
+CUST00119,Thomas Dennis,Poor,7.0
+CUST00120,Douglas Garner,Good,3.0
+CUST00121,Timothy Thompson,Very Good,9.0
+CUST00122,Shelia Martinez,Poor,4.0
+CUST00123,Karen Coleman,Excellent,7.0
+CUST00124,Kimberly Watson,Excellent,4.0
+CUST00125,Alexis Moore,Very Good,4.0
+CUST00126,Charles Acosta,Fair,1.0
+CUST00127,Jill Landry,Excellent,1.0
+CUST00128,Michael Martinez,Good,7.0
+CUST00129,Mrs. Sherry Bullock,Poor,6.0
+CUST00130,Heather Kennedy,Excellent,5.0
+CUST00131,Paula Henry,Fair,8.0
+CUST00132,Carly Johnson,Good,10.0
+CUST00133,Tyler Delgado,Fair,2.0
+CUST00134,Adam Clark DVM,Fair,9.0
+CUST00135,Terry Johnson,Very Good,5.0
+CUST00136,Justin Martinez,Good,10.0
+CUST00137,Kerry Patel MD,Fair,9.0
+CUST00138,Vanessa Johnson,Very Good,4.0
+CUST00139,Crystal Jones,Very Good,10.0
+CUST00140,Rebecca Jones,Fair,8.0
+CUST00141,Kyle Mitchell,Very Good,4.0
+CUST00142,Jackson Powers,Good,8.0
+CUST00143,Sarah Hart,Good,
+CUST00144,Jane Glass,Excellent,6.0
+CUST00145,Michael Estrada,Fair,2.0
+CUST00146,Ethan Cooper,Excellent,5.0
+CUST00147,Jamie Rogers,Good,6.0
+CUST00148,Tracy Richardson,Poor,9.0
+CUST00149,John Carter,Poor,2.0
+CUST00150,Steven Tucker,Very Good,3.0
+CUST00151,Sharon Solis,Poor,8.0
+CUST00152,Jessica Contreras,Fair,8.0
+CUST00153,Lisa Velasquez,Poor,2.0
+CUST00154,Pamela Sloan,Fair,7.0
+CUST00155,Richard Waters,Excellent,1.0
+CUST00156,Lynn Case,Excellent,4.0
+CUST00157,Lisa Cervantes DDS,Very Good,1.0
+CUST00158,Erin Miller,Excellent,3.0
+CUST00159,Thomas Maynard,Excellent,9.0
+CUST00160,Lisa Jones,Fair,8.0
+CUST00161,Danielle Welch,Very Good,1.0
+CUST00162,Shawna Hull,Very Good,5.0
+CUST00163,Kimberly Parks,Very Good,5.0
+CUST00164,Joseph Norris DVM,Fair,9.0
+CUST00165,Andrea Jenkins,Poor,4.0
+CUST00166,Frank Johnson,Good,
+CUST00167,Brenda Barnett,Very Good,3.0
+CUST00168,Allison Sanders,Good,7.0
+CUST00169,Ryan Lucas,Good,8.0
+CUST00170,Kyle Huber,Good,7.0
+CUST00171,Laura Bailey,Poor,2.0
+CUST00172,Anthony Evans,Fair,9.0
+CUST00173,Ruben Henry,Fair,1.0
+CUST00174,Gregory Silva,Poor,3.0
+CUST00175,Antonio Taylor,Poor,3.0
+CUST00176,Justin Baker,Very Good,2.0
+CUST00177,Shannon Blackwell,Poor,10.0
+CUST00178,Michele Valdez,Poor,9.0
+CUST00179,Victoria Mora,Fair,5.0
+CUST00180,Brandy Hernandez,Excellent,7.0
+CUST00181,Jennifer Mendoza,Good,7.0
+CUST00182,Steven Gomez,Fair,4.0
+CUST00183,Thomas Hayden,Very Good,5.0
+CUST00184,Gavin Espinoza,Fair,10.0
+CUST00185,Whitney Fuentes,Good,2.0
+CUST00186,Michael Peck,Fair,6.0
+CUST00187,Hannah Bass,Fair,
+CUST00188,Gregory Bailey,Very Good,5.0
+CUST00189,Christopher Crawford,Fair,9.0
+CUST00190,Elizabeth Robinson,Very Good,3.0
+CUST00191,William Murphy,Fair,8.0
+CUST00192,Carlos Collins,Very Good,7.0
+CUST00193,Lisa Chambers,Fair,5.0
+CUST00194,Amanda Wagner,Good,3.0
+CUST00195,Robert Sullivan,Very Good,9.0
+CUST00196,Mary Evans,Very Good,6.0
+CUST00197,Brenda Warren,Very Good,9.0
+CUST00198,Richard Griffin,Excellent,6.0
+CUST00199,Amanda Nelson,Very Good,5.0
+CUST00200,Lisa Underwood,Very Good,8.0
+CUST00201,Joy Vance,Fair,4.0
+CUST00202,Christina Jackson,Fair,2.0
+CUST00203,Chris Cole,Fair,3.0
+CUST00204,Megan Bond,Very Good,5.0
+CUST00205,Chase Scott,Excellent,5.0
+CUST00206,Andrew Jackson,Fair,8.0
+CUST00207,Alexander Williams,Excellent,4.0
+CUST00208,Sherry Young,Excellent,2.0
+CUST00209,Rachel Smith,Very Good,4.0
+CUST00210,Michael Myers,Fair,6.0
+CUST00211,David Wright,Excellent,9.0
+CUST00212,Ana Miller,Excellent,3.0
+CUST00213,Dr. Brandon Harrington,Excellent,
+CUST00214,Fernando Pierce,Fair,
+CUST00215,Kelsey Phillips,Poor,1.0
+CUST00216,Devin Reilly,Good,3.0
+CUST00217,Ian Gutierrez,Very Good,1.0
+CUST00218,Gabriela Casey,Poor,1.0
+CUST00219,Misty Perez,Excellent,7.0
+CUST00220,Jenna Jones,Poor,
+CUST00221,James Le,Fair,3.0
+CUST00222,Katherine Hamilton,Excellent,3.0
+CUST00223,Adam Leon,Fair,8.0
+CUST00224,Elizabeth Miller,Excellent,3.0
+CUST00225,David Pena,Poor,7.0
+CUST00226,Christine Lewis,Fair,7.0
+CUST00227,Mark Gray,Poor,9.0
+CUST00228,Lisa Powell,Very Good,1.0
+CUST00229,John Brown,Excellent,
+CUST00230,Tina Castillo,Good,3.0
+CUST00231,Thomas Taylor,Good,2.0
+CUST00232,Carlos Butler,Poor,2.0
+CUST00233,Christina Lopez,Good,2.0
+CUST00234,Heather Murray,Good,4.0
+CUST00235,Katherine Horne,Excellent,9.0
+CUST00236,Brian Davis,Good,9.0
+CUST00237,Anne Bates,Poor,5.0
+CUST00238,Susan Luna,Poor,9.0
+CUST00239,Rachel Brown,Excellent,4.0
+CUST00240,Karen Miller,Good,6.0
+CUST00241,Stanley Black,Very Good,1.0
+CUST00242,Rachel Miranda,Good,6.0
+CUST00243,Angela Oconnor,Very Good,10.0
+CUST00244,Michael Baldwin,Good,2.0
+CUST00245,Francisco Reyes,Excellent,9.0
+CUST00246,Danielle Johnson,Poor,
+CUST00247,Teresa Rivera,Good,8.0
+CUST00248,Thomas Watson,Excellent,2.0
+CUST00249,Janice Collins,Fair,
+CUST00250,Alexandria Bowen,Poor,
+CUST00251,Kelsey Williams,Poor,2.0
+CUST00252,Chad Dorsey,Fair,2.0
+CUST00253,Kevin Davenport,Very Good,5.0
+CUST00254,John Ryan,Poor,2.0
+CUST00255,Jason Wilson,Excellent,2.0
+CUST00256,Eduardo Bates DDS,Excellent,8.0
+CUST00257,Timothy Brown,Excellent,3.0
+CUST00258,Elizabeth Holloway,Excellent,10.0
+CUST00259,Erin Wells,Fair,3.0
+CUST00260,Brian Miller,Good,1.0
+CUST00261,Isaac Fuller,Excellent,2.0
+CUST00262,Sandra Barnett,Very Good,5.0
+CUST00263,Lindsay Haas,Poor,9.0
+CUST00264,Christine Rodriguez,Very Good,9.0
+CUST00265,Ryan Gray,Good,4.0
+CUST00266,Adam Romero,Good,10.0
+CUST00267,Jacqueline Collins,Fair,4.0
+CUST00268,Katherine Pitts,Very Good,3.0
+CUST00269,Mariah Farrell,Good,9.0
+CUST00270,Nicole Douglas,Excellent,4.0
+CUST00271,Ashley Greene,Excellent,3.0
+CUST00272,Amy Howard,Good,10.0
+CUST00273,Mr. Charles Martinez,Excellent,9.0
+CUST00274,Edward Le,Very Good,5.0
+CUST00275,Stephanie Miranda,Fair,6.0
+CUST00276,Lisa Robinson,Very Good,8.0
+CUST00277,Mark Moon,Fair,1.0
+CUST00278,Michael Anderson,Poor,9.0
+CUST00279,Miranda Carr,Fair,5.0
+CUST00280,John Cunningham,Good,1.0
+CUST00281,Jason Webb,Very Good,9.0
+CUST00282,Scott Allen,Fair,7.0
+CUST00283,Catherine Alvarez,Poor,2.0
+CUST00284,Adriana Allen,Excellent,8.0
+CUST00285,David Estrada,Excellent,8.0
+CUST00286,Bruce Pennington,Excellent,10.0
+CUST00287,Jacqueline Sullivan,Very Good,3.0
+CUST00288,Raven Burgess DDS,Excellent,4.0
+CUST00289,Dr. Kayla Gray,Good,3.0
+CUST00290,Kimberly Jimenez,Very Good,2.0
+CUST00291,Kelsey Kelley,Excellent,7.0
+CUST00292,Susan Elliott,Good,9.0
+CUST00293,Anthony Frederick,Fair,8.0
+CUST00294,Kyle Russell,Excellent,10.0
+CUST00295,Tina Burch,Good,5.0
+CUST00296,George Luna,Good,1.0
+CUST00297,Robert Smith,Poor,4.0
+CUST00298,Lydia Mejia,Fair,6.0
+CUST00299,Frederick Blair,Poor,7.0
+CUST00300,Karen Charles,Poor,4.0
+CUST00301,Michael Jones,Good,1.0
+CUST00302,Daniel Thomas,Fair,7.0
+CUST00303,Joseph Ford,Fair,10.0
+CUST00304,Mr. Evan Gates,Excellent,4.0
+CUST00305,Kelsey Stokes,Excellent,7.0
+CUST00306,Tanya Lee,Poor,6.0
+CUST00307,Andrea Kaiser,Very Good,10.0
+CUST00308,Amber Evans,Excellent,10.0
+CUST00309,Charles Robertson,Very Good,6.0
+CUST00310,Christina Harrington,Excellent,1.0
+CUST00311,Joshua Owens,Poor,9.0
+CUST00312,Joseph Davis,Good,2.0
+CUST00313,Ricardo Reynolds,Good,6.0
+CUST00314,Bryan Rasmussen,Very Good,2.0
+CUST00315,Matthew Ochoa,Fair,6.0
+CUST00316,Kenneth Webb,Poor,
+CUST00317,Kevin Price,Excellent,8.0
+CUST00318,Ryan Terry,Poor,8.0
+CUST00319,Jennifer Phelps,Good,6.0
+CUST00320,Jerry Jackson,Poor,10.0
+CUST00321,Kylie Manning,Fair,
+CUST00322,James Duncan,Good,10.0
+CUST00323,Cory Stewart,Good,8.0
+CUST00324,Christina Clark,Very Good,3.0
+CUST00325,Teresa Santos,Good,7.0
+CUST00326,Diane Martin,Very Good,2.0
+CUST00327,Mrs. Amy Rodriguez MD,Fair,2.0
+CUST00328,Joshua Ali,Excellent,1.0
+CUST00329,Joseph Martinez,Fair,10.0
+CUST00330,Katherine Fletcher,Very Good,6.0
+CUST00331,Christopher Huerta,Fair,1.0
+CUST00332,Rodney Grant,Very Good,7.0
+CUST00333,Marcus Miller,Excellent,10.0
+CUST00334,Molly Mcintyre,Poor,4.0
+CUST00335,Bruce Martinez,Very Good,8.0
+CUST00336,Christopher Smith,Fair,8.0
+CUST00337,Daniel Oliver,Excellent,5.0
+CUST00338,Donna King,Fair,
+CUST00339,Chad Tucker,Good,6.0
+CUST00340,Jerry Anderson,Excellent,7.0
+CUST00341,Maria Kerr,Poor,6.0
+CUST00342,John Hayes,Fair,
+CUST00343,Destiny Mendez,Fair,6.0
+CUST00344,Brian Vasquez,Good,1.0
+CUST00345,Michael Salazar,Very Good,3.0
+CUST00346,Stanley Whitehead,Good,8.0
+CUST00347,Samantha Huang,Fair,6.0
+CUST00348,Fred Peters,Excellent,1.0
+CUST00349,Christopher Cervantes,Excellent,5.0
+CUST00350,Teresa Woods,Fair,3.0
+CUST00351,Brandy Sparks,Very Good,5.0
+CUST00352,Wendy Hart,Excellent,3.0
+CUST00353,Molly Smith,Good,4.0
+CUST00354,Deanna Perkins,Fair,4.0
+CUST00355,Mr. John Matthews,Excellent,4.0
+CUST00356,Amy Rivas,Excellent,6.0
+CUST00357,Donald Fields,Poor,6.0
+CUST00358,Brian Martin,Very Good,4.0
+CUST00359,Benjamin Hamilton,Very Good,6.0
+CUST00360,Erin Hawkins,Very Good,1.0
+CUST00361,Justin Gutierrez,Poor,9.0
+CUST00362,Joseph Chandler,Fair,10.0
+CUST00363,Shelley Gonzalez,Good,2.0
+CUST00364,Oscar Jensen,Poor,7.0
+CUST00365,Jennifer Cain,Poor,7.0
+CUST00366,Erica Anderson,Very Good,4.0
+CUST00367,Alejandro Tran,Fair,6.0
+CUST00368,Gary Baker,Very Good,5.0
+CUST00369,Stephanie Watson,Excellent,10.0
+CUST00370,Dennis Payne,Poor,7.0
+CUST00371,Robert Herrera,Very Good,7.0
+CUST00372,Sean King,Good,2.0
+CUST00373,Craig Austin,Excellent,4.0
+CUST00374,Cynthia Davis,Good,3.0
+CUST00375,Justin Smith,Excellent,6.0
+CUST00376,Richard Stone,Poor,1.0
+CUST00377,Janice Young,Excellent,8.0
+CUST00378,Richard Clark,Good,8.0
+CUST00379,Kenneth Leonard,Poor,6.0
+CUST00380,Samantha Ray,Excellent,1.0
+CUST00381,Dustin Wilson,Excellent,4.0
+CUST00382,Jonathan Lopez,Fair,
+CUST00383,Bailey Phillips,Excellent,5.0
+CUST00384,Carolyn Hill,Poor,8.0
+CUST00385,Dr. Anne Greer MD,Very Good,7.0
+CUST00386,Julie Conner,Very Good,6.0
+CUST00387,Matthew Ramirez,Fair,9.0
+CUST00388,Jonathan Drake,Excellent,4.0
+CUST00389,Kerri Anderson,Fair,8.0
+CUST00390,Katherine Finley DVM,Very Good,2.0
+CUST00391,Kevin Cox,Very Good,2.0
+CUST00392,Tanya Williams,Excellent,4.0
+CUST00393,Brianna Richard,Fair,2.0
+CUST00394,Stacey Coleman,Very Good,1.0
+CUST00395,Leslie Peters,Fair,9.0
+CUST00396,Madison Lambert,Excellent,7.0
+CUST00397,Bernard Garner,Excellent,6.0
+CUST00398,Walter Johnson,Very Good,3.0
+CUST00399,Ellen Andrews,Good,1.0
+CUST00400,Raymond Reyes,Poor,4.0
+CUST00401,Stephen Freeman,Good,6.0
+CUST00402,Spencer Johnson,Fair,5.0
+CUST00403,Lauren Decker,Fair,5.0
+CUST00404,Jennifer Ross,Very Good,7.0
+CUST00405,Joshua Lee,Poor,8.0
+CUST00406,Hailey Fleming,Poor,5.0
+CUST00407,Patricia Walsh,Excellent,1.0
+CUST00408,James Morrison,Very Good,1.0
+CUST00409,Dylan Johnson,Poor,4.0
+CUST00410,Mary Schroeder,Excellent,3.0
+CUST00411,Christina Kerr,Very Good,3.0
+CUST00412,Tammy Ingram,Fair,2.0
+CUST00413,Wayne Richard,Fair,9.0
+CUST00414,Jonathan Arnold,Excellent,7.0
+CUST00415,Carl Moreno,Poor,7.0
+CUST00416,Chad Lyons,Very Good,4.0
+CUST00417,Michelle Richardson,Good,8.0
+CUST00418,Tina Henderson,Good,3.0
+CUST00419,Eric Scott,Poor,8.0
+CUST00420,Nicole Carr,Fair,7.0
+CUST00421,Sarah Bell,Good,6.0
+CUST00422,Austin Mccarthy,Good,1.0
+CUST00423,Laurie Foster,Excellent,10.0
+CUST00424,Cody Mendez,Very Good,2.0
+CUST00425,Anthony Smith,Poor,5.0
+CUST00426,Jeremy Rocha,Very Good,7.0
+CUST00427,Laura Sanchez,Good,1.0
+CUST00428,Robert Dunn,Excellent,4.0
+CUST00429,James Patterson,Excellent,8.0
+CUST00430,Bryan Branch,Excellent,2.0
+CUST00431,Amanda Bates,Very Good,8.0
+CUST00432,Lisa Smith,Good,4.0
+CUST00433,Jasmine Green,Fair,9.0
+CUST00434,Melissa Mcgee,Good,8.0
+CUST00435,Alexis Price,Poor,3.0
+CUST00436,Megan Frazier DDS,Good,1.0
+CUST00437,Richard Orozco,Fair,
+CUST00438,Ronnie Ibarra,Good,10.0
+CUST00439,Matthew Allen,Fair,8.0
+CUST00440,Ross Navarro,Good,2.0
+CUST00441,Oscar Prince,Excellent,3.0
+CUST00442,Christopher Wright,Fair,3.0
+CUST00443,Kristin Soto,Good,6.0
+CUST00444,Mark Anderson,Poor,5.0
+CUST00445,Jason Mcguire,Excellent,3.0
+CUST00446,Carl Perry,Very Good,5.0
+CUST00447,Daniel Johnson,Very Good,6.0
+CUST00448,Larry Gallagher,Fair,5.0
+CUST00449,Evan Velez,Fair,5.0
+CUST00450,James Mitchell,Fair,4.0
+CUST00451,Heather Moss,Very Good,10.0
+CUST00452,Tracy Wiggins,Good,1.0
+CUST00453,Stephanie Larsen,Good,4.0
+CUST00454,Calvin Clayton,Good,5.0
+CUST00455,Cassandra Daniels,Very Good,6.0
+CUST00456,Robert Diaz,Very Good,3.0
+CUST00457,Cynthia Schwartz,Very Good,2.0
+CUST00458,Bruce Holmes,Good,7.0
+CUST00459,Tony Logan,Fair,
+CUST00460,Jaime Monroe,Excellent,8.0
+CUST00461,Frederick Lopez,Very Good,7.0
+CUST00462,Andrew Bates,Fair,7.0
+CUST00463,Monica Smith,Very Good,2.0
+CUST00464,Jill Beltran,Good,8.0
+CUST00465,Yesenia Mcdonald,Excellent,3.0
+CUST00466,Keith Gibbs,Poor,8.0
+CUST00467,Shane Rivera,Poor,
+CUST00468,Debra Robinson,Very Good,5.0
+CUST00469,Samuel Harris,Fair,9.0
+CUST00470,David Ellis,Very Good,6.0
+CUST00471,Alex Jimenez,Excellent,2.0
+CUST00472,Alicia Meza,Good,9.0
+CUST00473,Dawn Saunders,Good,5.0
+CUST00474,Timothy Patrick,Poor,8.0
+CUST00475,Anthony Fleming,Very Good,10.0
+CUST00476,Jason Brewer,Good,6.0
+CUST00477,Steven Flores,Fair,8.0
+CUST00478,Lee Gibson,Excellent,9.0
+CUST00479,Raymond Stevens,Excellent,4.0
+CUST00480,Kenneth Hood,Poor,9.0
+CUST00481,Gerald Ashley,Excellent,6.0
+CUST00482,Isaac Ortiz,Poor,6.0
+CUST00483,Tammy Morrison,Fair,6.0
+CUST00484,Anthony Gonzalez,Very Good,7.0
+CUST00485,Andrew Steele,Very Good,5.0
+CUST00486,Lisa Duran,Excellent,6.0
+CUST00487,Lisa Thomas,Very Good,7.0
+CUST00488,Steven Robinson,Very Good,10.0
+CUST00489,Lisa Ford,Poor,2.0
+CUST00490,Victor Roberts,Good,1.0
+CUST00491,Lisa Oliver,Good,7.0
+CUST00492,Timothy Chambers,Poor,1.0
+CUST00493,Kimberly Barber,Poor,3.0
+CUST00494,John Barrett,Fair,8.0
+CUST00495,Willie Collins,Very Good,9.0
+CUST00496,Scott Rogers,Good,3.0
+CUST00497,Andrew Brown,Poor,10.0
+CUST00498,Ricky Johnson,Fair,5.0
+CUST00499,Christine Barton,Good,5.0
+CUST00500,Victor Wilson,Good,4.0
+CUST00501,Lance Harris,Poor,10.0
+CUST00502,Nathaniel Adams,Very Good,1.0
+CUST00503,Michael Alvarado,Good,1.0
+CUST00504,Katelyn Garcia,Excellent,10.0
+CUST00505,Jacob Cox,Poor,9.0
+CUST00506,Nicolas Pennington,Fair,8.0
+CUST00507,David Schneider,Excellent,1.0
+CUST00508,Carla Blake,Fair,5.0
+CUST00509,Mark Orr,Good,9.0
+CUST00510,Justin Herrera,Good,10.0
+CUST00511,Angela Prince,Fair,6.0
+CUST00512,Carla Perkins,Excellent,6.0
+CUST00513,Lindsay Cabrera,Fair,10.0
+CUST00514,Katherine Turner,Excellent,9.0
+CUST00515,Rachael Gardner,Very Good,10.0
+CUST00516,Scott Ellis,Very Good,1.0
+CUST00517,Rebecca Davis,Excellent,7.0
+CUST00518,Christopher Gomez,Very Good,4.0
+CUST00519,Melanie Stewart,Poor,2.0
+CUST00520,Evan Young,Good,7.0
+CUST00521,James Henderson,Good,1.0
+CUST00522,Patrick Parks,Good,6.0
+CUST00523,Julie Moore,Good,8.0
+CUST00524,Katherine Taylor,Very Good,2.0
+CUST00525,Robert Nguyen,Good,5.0
+CUST00526,Jennifer Griffin,Excellent,6.0
+CUST00527,Paul Williams,Poor,5.0
+CUST00528,Yolanda Murillo,Very Good,8.0
+CUST00529,Steven Dixon,Excellent,5.0
+CUST00530,Hailey Moore,Good,2.0
+CUST00531,Melissa Hanna,Poor,5.0
+CUST00532,Benjamin Ray,Very Good,1.0
+CUST00533,Diane Andrews,Very Good,6.0
+CUST00534,Connor Valdez,Very Good,5.0
+CUST00535,Christina Martin,Excellent,6.0
+CUST00536,April Jones,Excellent,3.0
+CUST00537,Bobby Jones,Fair,8.0
+CUST00538,Isaiah Chung,Fair,4.0
+CUST00539,Donna Perry,Fair,2.0
+CUST00540,Heidi Smith,Fair,1.0
+CUST00541,Lisa Hill,Excellent,10.0
+CUST00542,Yvonne Riddle,Very Good,4.0
+CUST00543,Regina Smith,Poor,3.0
+CUST00544,Paul Lopez,Good,4.0
+CUST00545,Michael Bradford,Poor,3.0
+CUST00546,Steven Moss,Excellent,9.0
+CUST00547,Tiffany Ray,Excellent,1.0
+CUST00548,Lindsey Clark,Fair,10.0
+CUST00549,Shawn Ballard,Excellent,3.0
+CUST00550,Jason Anderson,Fair,9.0
+CUST00551,Julia Wilson,Poor,6.0
+CUST00552,Erika Romero,Good,8.0
+CUST00553,Lisa Boyd,Poor,2.0
+CUST00554,Kimberly Berry,Poor,1.0
+CUST00555,Joshua Thompson,Very Good,6.0
+CUST00556,Ryan Thomas,Good,6.0
+CUST00557,Mary Rice,Very Good,1.0
+CUST00558,Phillip Fox,Good,1.0
+CUST00559,Stephen Martinez,Poor,5.0
+CUST00560,Cassandra Booth,Good,1.0
+CUST00561,Tamara Cruz,Very Good,4.0
+CUST00562,Isaac Phillips,Fair,6.0
+CUST00563,Derek Frye,Very Good,7.0
+CUST00564,Brianna Jones,Very Good,9.0
+CUST00565,Joel Vargas,Very Good,3.0
+CUST00566,Christina Townsend,Excellent,3.0
+CUST00567,Donna Cox,Fair,8.0
+CUST00568,Margaret Rhodes,Excellent,6.0
+CUST00569,Melissa Lowery,Excellent,9.0
+CUST00570,Christopher Morris,Good,2.0
+CUST00571,Linda Lang,Poor,2.0
+CUST00572,Daniel Brooks,Fair,1.0
+CUST00573,Erica Miller,Fair,7.0
+CUST00574,Donna Farley,Fair,4.0
+CUST00575,Paige Marshall,Excellent,7.0
+CUST00576,David Coleman,Excellent,6.0
+CUST00577,Thomas Houston,Very Good,3.0
+CUST00578,Angela Hall,Poor,1.0
+CUST00579,Evan Cisneros,Good,8.0
+CUST00580,Stacy Hendricks,Poor,3.0
+CUST00581,Alyssa Brewer,Excellent,2.0
+CUST00582,Michael Baker,Good,7.0
+CUST00583,Gina Bryant,Good,3.0
+CUST00584,Sherri Watson,Good,10.0
+CUST00585,Justin Carroll,Fair,9.0
+CUST00586,Bobby Ruiz,Fair,4.0
+CUST00587,Mary Henderson,Excellent,8.0
+CUST00588,Michael Kelley,Good,3.0
+CUST00589,Nicholas Harrington,Excellent,1.0
+CUST00590,Jessica Schaefer,Good,8.0
+CUST00591,Brian Yates,Excellent,9.0
+CUST00592,Ryan Robinson,Fair,6.0
+CUST00593,Susan Swanson,Excellent,2.0
+CUST00594,Alicia Brown,Excellent,2.0
+CUST00595,Timothy Chapman,Poor,5.0
+CUST00596,John Richardson,Fair,7.0
+CUST00597,Courtney Smith,Excellent,3.0
+CUST00598,Henry Roberts,Poor,
+CUST00599,Stacy Singleton,Very Good,2.0
+CUST00600,Daniel Neal,Poor,10.0
+CUST00601,Mrs. Lisa Mitchell,Excellent,4.0
+CUST00602,Joyce Scott,Excellent,1.0
+CUST00603,Joseph Kaufman,Good,9.0
+CUST00604,Lisa Cobb,Fair,4.0
+CUST00605,Sara Huynh,Good,2.0
+CUST00606,John Alvarez,Good,9.0
+CUST00607,Katherine Velez,Very Good,5.0
+CUST00608,Mary Osborne,Very Good,7.0
+CUST00609,Brian Myers,Good,3.0
+CUST00610,Shawn Davis,Good,3.0
+CUST00611,Caroline Flynn,Poor,1.0
+CUST00612,Steve Price,Fair,6.0
+CUST00613,Stacey Palmer,Good,6.0
+CUST00614,Dawn Wilson,Good,4.0
+CUST00615,Emma Campos,Poor,2.0
+CUST00616,Brandon Tucker,Poor,7.0
+CUST00617,Benjamin Jackson,Very Good,7.0
+CUST00618,Mark Barron,Poor,2.0
+CUST00619,Shannon Wilson,Fair,2.0
+CUST00620,Tami Steele,Good,2.0
+CUST00621,Scott Wright,Poor,4.0
+CUST00622,Larry Johnson,Poor,4.0
+CUST00623,Stacey Martinez,Poor,5.0
+CUST00624,Carl Harris,Good,9.0
+CUST00625,Noah Burke,Very Good,5.0
+CUST00626,Michelle Strickland,Good,6.0
+CUST00627,Robert Anderson,Fair,8.0
+CUST00628,Mercedes Murphy,Fair,5.0
+CUST00629,Danielle Ramirez,Very Good,
+CUST00630,Terri Hunt,Very Good,8.0
+CUST00631,David Hall,Very Good,9.0
+CUST00632,John Sawyer,Poor,10.0
+CUST00633,Logan Garrett,Good,4.0
+CUST00634,Tiffany Henderson,Poor,5.0
+CUST00635,Ivan Johnson,Poor,1.0
+CUST00636,Roberto Keith,Fair,6.0
+CUST00637,Maria Ward,Poor,6.0
+CUST00638,Diamond Castillo,Poor,5.0
+CUST00639,Jade Williams,Good,8.0
+CUST00640,Krista Short,Excellent,6.0
+CUST00641,Theresa Martinez MD,Very Good,5.0
+CUST00642,Alicia Mcdowell,Good,5.0
+CUST00643,Carla Browning,Excellent,5.0
+CUST00644,Alexander Jimenez,Very Good,7.0
+CUST00645,Brandon Taylor,Fair,3.0
+CUST00646,Ryan Jenkins,Poor,10.0
+CUST00647,Jeffrey Gonzalez,Fair,2.0
+CUST00648,Miguel Mitchell,Excellent,3.0
+CUST00649,Sarah Jackson,Fair,5.0
+CUST00650,Tammy Smith,Fair,7.0
+CUST00651,Peggy Lucas,Excellent,1.0
+CUST00652,Patricia Cross,Poor,6.0
+CUST00653,Jill Lee,Good,4.0
+CUST00654,Jonathan Moore,Poor,8.0
+CUST00655,Michael Gonzalez,Very Good,1.0
+CUST00656,Christine Willis,Good,10.0
+CUST00657,Joshua White,Very Good,7.0
+CUST00658,Carly Golden,Good,
+CUST00659,Rebecca Phillips,Very Good,6.0
+CUST00660,Kimberly Flores,Excellent,10.0
+CUST00661,Kaitlin Perry,Good,7.0
+CUST00662,Mrs. Terri Henderson,Very Good,6.0
+CUST00663,Antonio Haas,Excellent,4.0
+CUST00664,Derek Kelley,Good,7.0
+CUST00665,Jessica Grant,Poor,2.0
+CUST00666,Justin Davis,Excellent,9.0
+CUST00667,Anthony Stevens,Excellent,4.0
+CUST00668,Rebecca Armstrong,Good,9.0
+CUST00669,Alicia Rowe,Fair,4.0
+CUST00670,Joshua Dunn,Fair,1.0
+CUST00671,Robert Meyer,Poor,7.0
+CUST00672,Mark Copeland,Excellent,9.0
+CUST00673,Gregory Parks,Excellent,8.0
+CUST00674,Craig Howard,Poor,7.0
+CUST00675,Michael Blevins,Excellent,1.0
+CUST00676,Antonio Dudley,Poor,
+CUST00677,Stephanie Myers,Poor,1.0
+CUST00678,Joshua Gross,Fair,3.0
+CUST00679,Lori Bowers,Very Good,9.0
+CUST00680,Charles Gilmore MD,Fair,3.0
+CUST00681,Kelly Weaver,Fair,9.0
+CUST00682,Dale Carter,Fair,3.0
+CUST00683,Jennifer Christian,Good,9.0
+CUST00684,James Mendoza,Very Good,8.0
+CUST00685,Theresa Stewart,Poor,8.0
+CUST00686,Tracy Wright,Fair,3.0
+CUST00687,Diane Wiley,Good,4.0
+CUST00688,Eric Moore,Excellent,8.0
+CUST00689,Jasmine Young,Good,4.0
+CUST00690,Christopher Mccann,Fair,5.0
+CUST00691,James Evans,Good,6.0
+CUST00692,Jason Obrien,Fair,9.0
+CUST00693,Mr. Tyler Winters,Good,1.0
+CUST00694,Joshua Lopez,Very Good,7.0
+CUST00695,Christopher Cross,Excellent,10.0
+CUST00696,James Ellis,Very Good,7.0
+CUST00697,Ryan Carroll,Good,8.0
+CUST00698,Thomas Woodard,Very Good,8.0
+CUST00699,Pamela Richardson,Good,8.0
+CUST00700,Brittany Singleton,Poor,2.0
+CUST00701,Christine Holden,Very Good,1.0
+CUST00702,Rachel Simmons,Fair,10.0
+CUST00703,Melanie Pugh,Poor,2.0
+CUST00704,Bobby Fields,Fair,9.0
+CUST00705,Vincent Mason,Very Good,3.0
+CUST00706,Ashlee Smith,Very Good,1.0
+CUST00707,Mary Thompson,Very Good,3.0
+CUST00708,Clifford Summers,Poor,4.0
+CUST00709,Jay Martin,Good,10.0
+CUST00710,Anita Tucker DDS,Excellent,6.0
+CUST00711,Kristen Williams,Very Good,10.0
+CUST00712,Terri Payne,Poor,2.0
+CUST00713,Mark James,Poor,8.0
+CUST00714,Michael Hughes,Very Good,10.0
+CUST00715,Rebecca Logan,Fair,3.0
+CUST00716,Beth Evans,Fair,6.0
+CUST00717,Daniel Ramirez,Very Good,4.0
+CUST00718,Morgan Walsh,Fair,4.0
+CUST00719,Melanie Moore,Very Good,1.0
+CUST00720,Adrienne Golden,Excellent,9.0
+CUST00721,Sheri Jarvis,Good,2.0
+CUST00722,Nicholas Jensen,Very Good,3.0
+CUST00723,Scott Mckay,Fair,9.0
+CUST00724,Justin Hernandez,Fair,5.0
+CUST00725,Nicolas Stout,Excellent,7.0
+CUST00726,Madison Nash,Fair,4.0
+CUST00727,Dana Becker,Excellent,10.0
+CUST00728,Phyllis Gibbs DDS,Poor,5.0
+CUST00729,Kristina Moss,Fair,10.0
+CUST00730,Erin Garcia,Good,1.0
+CUST00731,Janice Schmidt,Fair,4.0
+CUST00732,Jorge Webb,Excellent,8.0
+CUST00733,Curtis Williams,Excellent,7.0
+CUST00734,Michael Richardson,Excellent,4.0
+CUST00735,Jennifer Parks,Good,8.0
+CUST00736,Lisa Brown,Poor,2.0
+CUST00737,Autumn Allen,Very Good,8.0
+CUST00738,Julie Moran,Poor,4.0
+CUST00739,Nicholas Bradford,Good,2.0
+CUST00740,Andrea Harris,Poor,
+CUST00741,Ashley Poole,Poor,5.0
+CUST00742,Thomas Moore,Fair,6.0
+CUST00743,Shannon Hart,Very Good,3.0
+CUST00744,Rebecca James DVM,Excellent,7.0
+CUST00745,Jennifer Campbell,Very Good,10.0
+CUST00746,Ronald Chan,Fair,4.0
+CUST00747,Dana Cruz,Excellent,5.0
+CUST00748,Michael Frazier,Poor,6.0
+CUST00749,Carla Grant,Excellent,4.0
+CUST00750,Darryl Stevens,Poor,6.0
+CUST00751,Holly Shepherd,Good,1.0
+CUST00752,Katelyn Brown,Fair,3.0
+CUST00753,Alan Carr,Excellent,7.0
+CUST00754,Dan Berry,Excellent,5.0
+CUST00755,Gary Benton,Good,9.0
+CUST00756,Carol Parker,Fair,1.0
+CUST00757,Jennifer Wagner,Good,8.0
+CUST00758,Dawn Morse,Poor,4.0
+CUST00759,Ryan Mcintosh,Excellent,1.0
+CUST00760,Susan Garcia,Poor,3.0
+CUST00761,Anthony Howard,Excellent,6.0
+CUST00762,Megan Fischer,Fair,4.0
+CUST00763,Theodore Shaffer,Excellent,10.0
+CUST00764,Alan Anderson,Very Good,10.0
+CUST00765,Ricky Olson,Very Good,9.0
+CUST00766,Adrian Ho,Good,7.0
+CUST00767,Olivia Cohen,Fair,2.0
+CUST00768,Joshua Hill,Very Good,2.0
+CUST00769,Amber Johnson,Good,3.0
+CUST00770,Catherine Vasquez,Excellent,9.0
+CUST00771,Stephanie Dyer,Fair,9.0
+CUST00772,Patricia Davis,Good,10.0
+CUST00773,Bethany Parker,Good,5.0
+CUST00774,Elizabeth Morgan,Very Good,6.0
+CUST00775,David Kennedy,Good,5.0
+CUST00776,Amy Wade,Good,9.0
+CUST00777,Carl Sullivan,Very Good,4.0
+CUST00778,Michael Chapman,Very Good,2.0
+CUST00779,Kelly Bell,Poor,2.0
+CUST00780,Michelle Ward,Very Good,5.0
+CUST00781,Amy Velazquez,Fair,10.0
+CUST00782,Kristina Calhoun,Excellent,8.0
+CUST00783,Bradley Bailey,Very Good,7.0
+CUST00784,Yolanda Williams,Excellent,4.0
+CUST00785,Jonathan Burns,Very Good,1.0
+CUST00786,Abigail Burton,Good,1.0
+CUST00787,Eddie Pittman,Very Good,4.0
+CUST00788,Carolyn Velasquez,Poor,9.0
+CUST00789,Margaret Edwards,Poor,9.0
+CUST00790,Steven Martin,Very Good,6.0
+CUST00791,Brian Bates,Excellent,
+CUST00792,Matthew Foster,Excellent,
+CUST00793,Larry Carroll,Excellent,3.0
+CUST00794,Regina Howard,Excellent,6.0
+CUST00795,Regina Lynn,Good,3.0
+CUST00796,Melissa Pennington,Very Good,1.0
+CUST00797,Alyssa Clay,Poor,8.0
+CUST00798,Brandon Kemp,Poor,9.0
+CUST00799,Theresa Jordan,Poor,4.0
+CUST00800,Tiffany Perez,Poor,7.0
+CUST00801,Kenneth Smith,Poor,4.0
+CUST00802,Oscar Thompson,Good,10.0
+CUST00803,William Taylor,Very Good,9.0
+CUST00804,Michelle Joseph,Poor,9.0
+CUST00805,Travis Norris,Poor,7.0
+CUST00806,Jody Diaz,Fair,1.0
+CUST00807,Kristin Ramos,Poor,7.0
+CUST00808,Aaron Roach,Excellent,6.0
+CUST00809,Caitlin Ellis,Very Good,2.0
+CUST00810,Richard Mcfarland,Very Good,10.0
+CUST00811,Michael Snyder,Very Good,8.0
+CUST00812,Justin Cruz,Very Good,7.0
+CUST00813,Lauren Taylor,Poor,9.0
+CUST00814,Elizabeth Thomas,Poor,3.0
+CUST00815,Anna Love,Very Good,2.0
+CUST00816,Mark Jackson,Excellent,4.0
+CUST00817,Mitchell Le,Very Good,10.0
+CUST00818,John Bean,Poor,1.0
+CUST00819,Joshua Haney,Excellent,2.0
+CUST00820,Stephanie Fischer,Excellent,8.0
+CUST00821,Devin Ball,Poor,5.0
+CUST00822,John Lambert,Fair,1.0
+CUST00823,Michael Sheppard,Excellent,1.0
+CUST00824,Mrs. Tonya Anderson,Good,5.0
+CUST00825,Phillip Long,Poor,6.0
+CUST00826,Nathan Clark,Excellent,7.0
+CUST00827,Brandon Simmons,Good,4.0
+CUST00828,Jennifer Abbott,Poor,1.0
+CUST00829,Sandra Stark,Excellent,1.0
+CUST00830,Charles King,Good,4.0
+CUST00831,Ryan Jones,Fair,7.0
+CUST00832,Danielle Johnston,Excellent,6.0
+CUST00833,Damon Butler,Very Good,10.0
+CUST00834,Seth Harrington,Excellent,7.0
+CUST00835,Kerry Scott,Excellent,8.0
+CUST00836,Mackenzie Hogan,Good,10.0
+CUST00837,Erin Baker,Fair,3.0
+CUST00838,Kelly Quinn,Very Good,10.0
+CUST00839,Jessica Aguilar,Fair,7.0
+CUST00840,Jeremy Orr,Good,10.0
+CUST00841,Benjamin Kerr,Good,5.0
+CUST00842,Diane Burns,Good,5.0
+CUST00843,Elizabeth Nelson,Good,4.0
+CUST00844,Eric Mckenzie,Poor,7.0
+CUST00845,Jeffrey Reid,Excellent,2.0
+CUST00846,Emily Roberts,Fair,10.0
+CUST00847,Douglas Vaughn,Poor,10.0
+CUST00848,Dennis Jones,Good,2.0
+CUST00849,Daniel Young,Fair,2.0
+CUST00850,Mark Hale,Fair,9.0
+CUST00851,Kendra Reilly,Good,7.0
+CUST00852,Michael Sandoval,Poor,5.0
+CUST00853,Alexander Jones,Good,8.0
+CUST00854,Michael Russo,Very Good,8.0
+CUST00855,Monica Ray,Poor,1.0
+CUST00856,Cody Smith,Very Good,8.0
+CUST00857,William Murphy,Poor,9.0
+CUST00858,Vickie Reyes,Poor,2.0
+CUST00859,Dawn Sanders,Good,5.0
+CUST00860,Shaun Ortiz,Very Good,2.0
+CUST00861,Steven Brown,Good,10.0
+CUST00862,Melissa Murillo,Poor,4.0
+CUST00863,David Cortez,Very Good,1.0
+CUST00864,Michele Fuller,Poor,3.0
+CUST00865,Andrea Salazar,Very Good,1.0
+CUST00866,Mike Taylor,Very Good,7.0
+CUST00867,Dakota Howe,Poor,1.0
+CUST00868,Sara Oliver,Very Good,9.0
+CUST00869,Alison Richardson,Excellent,1.0
+CUST00870,Susan Adams,Very Good,10.0
+CUST00871,Shawn Cline,Fair,3.0
+CUST00872,Scott Fletcher,Good,10.0
+CUST00873,Michael Newton,Poor,4.0
+CUST00874,Kaitlyn George,Fair,10.0
+CUST00875,April Mason,Good,9.0
+CUST00876,David Stephens,Fair,2.0
+CUST00877,Kimberly Knapp,Very Good,6.0
+CUST00878,William Roberts,Fair,9.0
+CUST00879,Kathleen Ross,Very Good,2.0
+CUST00880,Kristi Hernandez,Excellent,1.0
+CUST00881,Julie Gibson,Good,3.0
+CUST00882,Cory Simpson,Excellent,10.0
+CUST00883,Paul Jones,Excellent,4.0
+CUST00884,Jacqueline Ramos,Very Good,7.0
+CUST00885,Nancy Padilla,Excellent,5.0
+CUST00886,Mark Willis,Very Good,2.0
+CUST00887,Russell Neal,Excellent,7.0
+CUST00888,Melissa Smith,Good,1.0
+CUST00889,Melissa Bailey,Fair,9.0
+CUST00890,Rebecca Adams,Fair,10.0
+CUST00891,James Garrison,Very Good,4.0
+CUST00892,Christopher Murphy,Excellent,1.0
+CUST00893,Randy White,Fair,10.0
+CUST00894,Sarah Roach,Excellent,4.0
+CUST00895,Cheryl Johnson,Good,10.0
+CUST00896,Carla Schroeder,Excellent,1.0
+CUST00897,Kelly Perry,Very Good,9.0
+CUST00898,Breanna Butler,Good,6.0
+CUST00899,Amber Castro,Good,8.0
+CUST00900,Keith Walker,Poor,6.0
+CUST00901,Mr. Jeffrey Martin,Poor,6.0
+CUST00902,Pamela Burton,Poor,6.0
+CUST00903,Lisa Clark,Poor,6.0
+CUST00904,Gavin Mcpherson,Good,4.0
+CUST00905,Isaac Morrison,Poor,4.0
+CUST00906,Devon Jackson,Good,9.0
+CUST00907,Paul Martinez,Poor,6.0
+CUST00908,Linda Lewis,Excellent,10.0
+CUST00909,Alejandro Herman,Fair,5.0
+CUST00910,Stephanie Barnes,Good,5.0
+CUST00911,Edward Branch,Good,3.0
+CUST00912,Jill Dunn,Excellent,10.0
+CUST00913,Henry Smith,Poor,5.0
+CUST00914,Jacob Hoffman,Very Good,8.0
+CUST00915,Amber Ramirez,Very Good,4.0
+CUST00916,Leslie Hensley,Good,1.0
+CUST00917,Shelby Collins,Good,4.0
+CUST00918,Alexander Robles,Excellent,3.0
+CUST00919,Elizabeth Flores,Good,8.0
+CUST00920,Richard Adkins Jr.,Excellent,5.0
+CUST00921,Andrea Aguilar,Very Good,10.0
+CUST00922,Roger White,Fair,5.0
+CUST00923,Laura Thornton,Very Good,1.0
+CUST00924,Stephanie Cook,Fair,3.0
+CUST00925,Diane Perez,Excellent,7.0
+CUST00926,Christopher Smith,Poor,1.0
+CUST00927,Christopher Stein,Fair,2.0
+CUST00928,Jim Ross,Good,8.0
+CUST00929,Pamela Wiggins,Excellent,9.0
+CUST00930,Isaiah Novak,Fair,3.0
+CUST00931,Courtney Munoz,Fair,3.0
+CUST00932,Melissa Marshall,Good,6.0
+CUST00933,Jessica Dunn,Poor,2.0
+CUST00934,Kim Figueroa,Fair,8.0
+CUST00935,Kristin Gilbert,Fair,10.0
+CUST00936,Kayla Hurley,Good,7.0
+CUST00937,Cody Harrison,Poor,
+CUST00938,Angela Williams,Poor,10.0
+CUST00939,Todd Sims,Poor,9.0
+CUST00940,Tyler Dean,Excellent,1.0
+CUST00941,Katherine Moon,Fair,2.0
+CUST00942,Jose Cortez,Excellent,8.0
+CUST00943,Jason Bond,Good,4.0
+CUST00944,Raymond Hayes,Fair,5.0
+CUST00945,Elizabeth Bond,Fair,3.0
+CUST00946,Catherine Bryan,Excellent,3.0
+CUST00947,Dr. Larry Cole,Poor,2.0
+CUST00948,Kathleen Chavez,Good,3.0
+CUST00949,Jonathan Martin,Excellent,7.0
+CUST00950,Jennifer Henry,Fair,8.0
+CUST00951,April Wright,Excellent,8.0
+CUST00952,Matthew Hebert,Very Good,5.0
+CUST00953,Lawrence Knight,Very Good,9.0
+CUST00954,Michael Arnold,Good,3.0
+CUST00955,Christian David,Very Good,
+CUST00956,Michael Hammond,Excellent,3.0
+CUST00957,Justin Carey,Very Good,2.0
+CUST00958,Derek Powell,Poor,
+CUST00959,Michael Franklin,Poor,2.0
+CUST00960,David Pena,Very Good,9.0
+CUST00961,Lindsay Shaffer,Poor,10.0
+CUST00962,Shelia Burns,Good,8.0
+CUST00963,Michael Nelson,Good,3.0
+CUST00964,Sandra Ramirez,Very Good,2.0
+CUST00965,Amanda Tucker,Poor,8.0
+CUST00966,Nicholas Johnson,Fair,1.0
+CUST00967,Vanessa Phillips,Poor,1.0
+CUST00968,Rebecca Kemp,Good,1.0
+CUST00969,Tiffany Hill,Fair,8.0
+CUST00970,Devin Rowe Jr.,Very Good,1.0
+CUST00971,David Gibson,Fair,1.0
+CUST00972,Brenda Larson,Poor,9.0
+CUST00973,Samantha Stevens,Poor,1.0
+CUST00974,Robert Kelley DDS,Poor,9.0
+CUST00975,Ryan Vaughn,Good,5.0
+CUST00976,Jeffrey Snyder,Good,6.0
+CUST00977,Gary Thompson,Very Good,6.0
+CUST00978,Ashley Wood,Excellent,1.0
+CUST00979,Michelle Poole,Good,6.0
+CUST00980,Logan Rasmussen,Poor,
+CUST00981,Daniel Wiggins,Very Good,7.0
+CUST00982,Jessica Henderson,Poor,1.0
+CUST00983,Dr. Raymond Brown,Excellent,2.0
+CUST00984,Mary Simpson,Very Good,5.0
+CUST00985,Brandi Boone,Good,3.0
+CUST00986,Dr. James Johnson,Fair,9.0
+CUST00987,Sarah Williams,Very Good,7.0
+CUST00988,Jeremiah Johnson,Excellent,1.0
+CUST00989,Dylan Ballard,Very Good,10.0
+CUST00990,Ashley Campbell,Excellent,8.0
+CUST00991,Linda Pollard,Fair,8.0
+CUST00992,Amanda Henderson,Fair,2.0
+CUST00993,Scott Hansen,Very Good,10.0
+CUST00994,Christopher Jacobs,Excellent,3.0
+CUST00995,Samuel Taylor,Fair,9.0
+CUST00996,Susan Rodgers,Poor,7.0
+CUST00997,Jenny Burgess,Good,2.0
+CUST00998,Travis Serrano,Poor,5.0
+CUST00999,Debbie Hayes,Excellent,6.0
+CUST01000,Christina Koch,Excellent,8.0
+CUST00062,Valerie Simmons,Very Good,4.0
+CUST00214,Fernando Pierce,Fair,
+CUST00100,Kelli Rodriguez,Very Good,3.0
+CUST00156,Lynn Case,Excellent,4.0
+CUST00487,Lisa Thomas,Very Good,7.0
+CUST00182,Steven Gomez,Fair,4.0
+CUST00584,Sherri Watson,Good,10.0
+CUST00683,Jennifer Christian,Good,9.0
+CUST00552,Erika Romero,Good,8.0
+CUST00895,Cheryl Johnson,Good,10.0
